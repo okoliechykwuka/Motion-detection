@@ -6,7 +6,7 @@ Detection movement of object using opencv
 ### Output
 <p align="left"> 
   <kbd>
-    <a href="https://github.com/okoliechykwuka/Road-lane-detection/blob/master/output_image.png" target="_blank"><img src="output_image.png" height = "300">
+    <a href="https://github.com/okoliechykwuka/Motion-detection/blob/master/" target="_blank"><img src="output_frame.JPG" height = "400">
   </a>
   </kbd>
 </p>
